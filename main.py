@@ -9,7 +9,6 @@ elif number % base1 == 0:
 elif number % base2 == 0:
     print('buzz')
 
-    
 if number > 1:
    for i in range(2,number):
        if (number % i) != 0:
